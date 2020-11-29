@@ -1,0 +1,40 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 40,
+        "name": "browser closed",
+        "description": "",
+        "id": "bcqam-application-testing;browser-closed",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 110911899,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "This is a close broswer test",
+            "match": {
+              "location": "TaggingStepDefination.this_is_a_close_broswer_test()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "BCQAM application testing",
+    "description": "",
+    "id": "bcqam-application-testing",
+    "keyword": "Feature",
+    "uri": "E:/TESTING/Automation/BCQAMBDDFramework/src/main/java/Features/tagging.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@FunctionalTest"
+      }
+    ]
+  }
+]
