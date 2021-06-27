@@ -1,4 +1,4 @@
-/*package StepDefinations;
+package StepDefinations;
 
 import javax.xml.xpath.XPath;
 
@@ -72,7 +72,7 @@ public class LoginStepdefination
 		WebElement vendordrop=driver.findElement(By.xpath("//*[@id=\"content\"]/div/ng-view/div/div/div/div[1]/div[2]/form/div[2]/div/div/select"));
 		
 		Select drop=new Select(vendordrop);
-		drop.selectByValue("7");
+		drop.selectByValue("0");
 		
 	}
 
@@ -165,4 +165,3 @@ public class LoginStepdefination
 	
 	
 }
-*/

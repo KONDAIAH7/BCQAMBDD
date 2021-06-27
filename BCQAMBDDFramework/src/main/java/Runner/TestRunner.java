@@ -6,7 +6,7 @@ import cucumber.api.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-		features = "E:\\TESTING\\Automation\\BCQAMBDDFramework\\src\\main\\java\\Features\\tagging.feature",       //the path of the feature files
+		features = "E:\\TESTING\\Automation\\BCQAMBDDFramework\\src\\main\\java\\Features\\login.feature",       //the path of the feature files
 		
 		glue={"StepDefinations"},     //the path of the step definition files
 		
